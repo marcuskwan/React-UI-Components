@@ -58,10 +58,10 @@ x- Create a `<CardContainer/ >` container component that will hold your card com
 ## _Project II - React Calculator_
 
 - For this project you're not going to be given any tips on how to break down the image file into components. Now that you've had some practice with the social card, this should be something you can start doing on your own. Just think about the image, and what potentially looks like a component.
-- For the MVP the calculator just needs to be displayed properly. Functionality will be a part of the stretch requirement.
-- All the files you'll need for this project are found in `Project-II-Calculator/calculator/src/components`. You can find all the component files you should need in their respective directory. i.e. inside of the `ButtonComponents` directory you should see a couple `.js` files and a `.css` file.
-- Feel free to add any files for any extra components you may feel the need to build.
-- Here is what your calculator should look like:
+x For the MVP the calculator just needs to be displayed properly. Functionality will be a part of the stretch requirement.
+x All the files you'll need for this project are found in `Project-II-Calculator/calculator/src/components`. You can find all the component files you should need in their respective directory. i.e. inside of the `ButtonComponents` directory you should see a couple `.js` files and a `.css` file.
+x Feel free to add any files for any extra components you may feel the need to build.
+x Here is what your calculator should look like:
 
 ![Calculator](calculator-component.png)
 
