@@ -65,8 +65,8 @@ x Here is what your calculator should look like:
 
 ![Calculator](calculator-component.png)
 
-- **BEFORE YOU DO ANYTHING ELSE READ [This](https://reactjs.org/docs/thinking-in-react.html)**
-- This is the time to stop and break down this image in terms of components. Each container on the screen should give you an idea of what your components should be. You're now about to begin your journey into learning how to think in React.
+x **BEFORE YOU DO ANYTHING ELSE READ [This](https://reactjs.org/docs/thinking-in-react.html)**
+x This is the time to stop and break down this image in terms of components. Each container on the screen should give you an idea of what your components should be. You're now about to begin your journey into learning how to think in React.
 
 #### Project 2 MVP requirements
 
