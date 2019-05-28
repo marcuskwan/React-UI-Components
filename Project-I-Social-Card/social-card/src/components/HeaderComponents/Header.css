@@ -1,1 +1,60 @@
 /* All styles for your header Components live here */
+* {
+    box-sizing: border-box;
+}
+.app-container {
+    width: 50%;
+}
+
+.card-container {
+    width: 100%;
+    padding-left: 90px;
+    border: 1px solid lightgrey;
+    border-radius: 7px;
+}
+
+header {
+    display: flex;
+}
+
+.header-text {
+    display: flex;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+.twitter-name, .card-title {
+    font-weight: bold;
+}
+
+
+.twitter-handle, .twitter-date, .card-url {
+    opacity: 0.5;
+}
+
+.twitter-name, .twitter-handle {
+    margin-right: 5px;
+}
+
+.thumbnail-img {
+    padding: 0px 10px;
+}
+
+.card-content {
+    padding: 10px;
+}
+
+.card-title, .card-description, .header-text {
+    margin-bottom: 5px;
+}
+
+.header-container {
+    margin-bottom: 15px;
+}
